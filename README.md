@@ -1,4 +1,13 @@
-umber-System-converter.app" 
+**#GROUP MEMBERS**
+JAMES MUINDE CT100/G/20114/23
+TIMOTHY KHALAYI MANYA CT100/G/18419/23
+STEPHEN THIONG'O CT100/G/19181/23
+JAMES MACHARIA CT100/G/15916/22
+AMOS NG'ANG'A  CT100/G/20810/23
+
+
+
+Number-System-converter.app" 
 # Number-system
 ## Description
 **Number-system** is a simple and efficient app that allows users to convert numbers between different number systems: **decimal**, **binary**, **octal**, and **hexadecimal**. It provides instant conversions and handles real-time user input with a clean, user-friendly interface.
